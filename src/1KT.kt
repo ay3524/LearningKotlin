@@ -9,6 +9,7 @@ fun main(args: Array<String>) {
     println(calculate(param1 = 12.0, param2 = 13.0))
 }
 
+//You can pass a parameter's default value
 fun calculate(param1: Double, param2: Double, op: String = "+"): Double {
     return if (op.equals(Constants.ADD_OP)) {
         param1 + param2
@@ -19,6 +20,7 @@ fun calculate(param1: Double, param2: Double, op: String = "+"): Double {
     }
 }
 
+//Same like '...' ellipsize list in java
 fun add(vararg listOfNumbers: Int): Int {
     var result = 0
     for (i in listOfNumbers) {

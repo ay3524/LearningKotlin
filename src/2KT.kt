@@ -1,5 +1,6 @@
-//Evaluate multiple values with 'when'
+//Evaluate multiple values with 'when' an option for switch case
 fun main(args: Array<String>) {
+
     // 1.Calculate Range : -
     val theAnswer = 90
     when (theAnswer) {
