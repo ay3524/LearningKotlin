@@ -3,7 +3,7 @@ This project contain samples for learning kotlin. Run the project in Intellij ID
 <a href=https://www.jetbrains.com/idea/>Link to Intellij IDEA website</a>
 
 # Documetation for kotlin
-Kotlin documentation is a good place to star. <br>
+Kotlin documentation is a good place to start. <br>
 <a href=https://kotlinlang.org/docs/reference/>Link to documentation</a>
 
 # Try Kotlin Online
